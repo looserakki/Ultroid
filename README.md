@@ -104,3 +104,6 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [Dan](https://github.com/delivrance) for [Pyrogram.](https://github.com/pyrogram/pyrogram)
 * [Pytgcalls](https://github.com/pytgcalls) for [PyTgCalls.](https://github.com/pytgcalls/pytgcalls)
 
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TEAM-PATRICIA/PATRICIA-RADIO&envs=API_HASH,API_ID,SESSION_STRING,CHAT,BOT_TOKEN,STREAM_URL,ADMINS)
+
